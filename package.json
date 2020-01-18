@@ -1,0 +1,30 @@
+{
+  "name": "cicd-by-saar",
+  "version": "1.0.0",
+  "description": "this is a demonstration for CI/CD pipeline on node apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saarmic/CICD-NODEJS.git"
+  },
+  "keywords": [
+    "CI",
+    "CD",
+    "NodeJS",
+    "Devopps"
+  ],
+  "author": "Aun Rizvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saarmic/CICD-NODEJS/issues"
+  },
+  "homepage": "https://github.com/saarmic/CICD-NODEJS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mocha": "^7.0.0",
+    "supertest": "^4.0.2"
+  }
+}
