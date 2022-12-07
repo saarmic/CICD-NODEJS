@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/saarmic/CICD-NODEJS#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mocha": "^7.0.0",
     "supertest": "^4.0.2"
   }
